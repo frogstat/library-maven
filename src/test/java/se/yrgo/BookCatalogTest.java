@@ -21,32 +21,34 @@ public class BookCatalogTest {
 	//G
 	@Test
 	public void testAddABook() {
-
+        int currentBookIndex = bc.getNumberOfBooks();
+        bc.addBook(book1);
+        assertSame(book1,bc.getBookArray()[currentBookIndex]);
 	}
 
 	//G
 	@Test
-	public void testFindBook() {
-
+	public void testFindBook() throws BookNotFoundException {
+        assertSame(book1,bc.findBook("Learning Java"));
 	}
 
 	//G
 	@Test
-	public void testFindBookIgnoringCase() {
-
+	public void testFindBookIgnoringCase() throws BookNotFoundException {
+        assertSame(book1,bc.findBook("LEARninG jAvA"));
 	}
 
 	//G
 	@Test
-	public void testFindBookWithExtraSpaces() {
-
+	public void testFindBookWithExtraSpaces() throws BookNotFoundException {
+        assertSame(book1,bc.findBook("      Learning Java    "));
 	}
 
 	//VG
 	// This test should throw BookNotFoundException in order to pass.
 	@Test
 	public void testFindBookThatDoesntExist() throws BookNotFoundException {
-
+        assertThrows(BookNotFoundException.class, () -> bc.findBook("thisBookDoesNotExist!"));
 	}
 
 }

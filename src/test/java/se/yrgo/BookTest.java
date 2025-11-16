@@ -1,7 +1,6 @@
 package se.yrgo;
-
+import se.yrgo.models.Book;
 import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.Test;
 
 class BookTest {

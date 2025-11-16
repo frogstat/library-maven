@@ -5,7 +5,7 @@ package se.yrgo.models;
 //import java.util.GregorianCalendar;
 
 import java.time.LocalDate;
-import utilities.LoanStatus;
+import se.yrgo.utilities.LoanStatus;
 
 public class Loan {
 

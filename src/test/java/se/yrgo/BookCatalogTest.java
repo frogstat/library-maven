@@ -1,8 +1,11 @@
-package models;
+package se.yrgo;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+import se.yrgo.models.Book;
+import se.yrgo.models.BookCatalog;
+import se.yrgo.models.BookNotFoundException;
 
 public class BookCatalogTest {
 

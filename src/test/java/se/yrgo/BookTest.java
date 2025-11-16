@@ -1,4 +1,4 @@
-package models;
+package se.yrgo;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -1,4 +1,4 @@
-package models;
+package se.yrgo.models;
 
 public class BookNotFoundException extends Exception {
 

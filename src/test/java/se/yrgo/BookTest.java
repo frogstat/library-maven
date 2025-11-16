@@ -20,5 +20,4 @@ class BookTest {
         Book book2 = new Book(633, "A Confederacy of Dunces","John Kennedy Toole", "1232","8876",336);
         assertNotEquals(book1,book2);
 	}
-
 }

@@ -48,7 +48,7 @@ public class BookCatalogTest {
 	// This test should throw BookNotFoundException in order to pass.
 	@Test
 	public void testFindBookThatDoesntExist() throws BookNotFoundException {
-        assertThrows(BookNotFoundException.class, () -> bc.findBook("thisBookDoesNotExist!"));
+        assertThrows(BookNotFoundException.class, () -> bc.findBook("thisB0okD0esNotExist!¡@£€€¥"));
 	}
 
 }

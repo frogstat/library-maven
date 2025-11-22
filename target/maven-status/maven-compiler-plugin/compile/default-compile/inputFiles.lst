@@ -1,0 +1,11 @@
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/src/main/java/se/yrgo/models/Book.java
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/src/main/java/se/yrgo/models/BookCatalog.java
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/src/main/java/se/yrgo/models/BookNotFoundException.java
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/src/main/java/se/yrgo/models/Customer.java
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/src/main/java/se/yrgo/models/Loan.java
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/src/main/java/se/yrgo/models/LoanAlreadyExistsException.java
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/src/main/java/se/yrgo/models/LoanNotFoundException.java
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/src/main/java/se/yrgo/models/Material.java
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/src/main/java/se/yrgo/ui/Main.java
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/src/main/java/se/yrgo/utilities/GenderType.java
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/src/main/java/se/yrgo/utilities/LoanStatus.java

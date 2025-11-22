@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Library 1.0-SNAPSHOT API'
+se.yrgo.ui
+se.yrgo.models
+se.yrgo.utilities
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/src/main/java = 1763320237351
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/link.svg = 1763810032896
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/search.js = 1763810032897
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/element-list = 1763810032788
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/overview-summary.html = 1763810032891
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/package-search-index.js = 1763810032877
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/type-search-index.js = 1763810032877
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/help-doc.html = 1763810032893
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/member-search-index.js = 1763810032878
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/index-all.html = 1763810032888
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/search-page.js = 1763810032897
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/script.js = 1763810032895
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/copy.svg = 1763810032896
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/stylesheet.css = 1763810032894
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/serialized-form.html = 1763810032817
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/overview-tree.html = 1763810032859
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/search.html = 1763810032889
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/index.html = 1763810032862
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/tag-search-index.js = 1763810032878
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/allclasses-index.html = 1763810032874
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/module-search-index.js = 1763810032876
+/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/site/apidocs/allpackages-index.html = 1763810032876

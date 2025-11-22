@@ -12,7 +12,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-21-openjdk/lib"/>
-    <property name="sun.java.command" value="/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/surefire/surefirebooter11533455273757827560.jar /home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/surefire 2025-11-22T12-13-57_994-jvmRun1 surefire16124563670659872227tmp surefire_017917652641354796184tmp"/>
+    <property name="sun.java.command" value="/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/surefire/surefirebooter8287536189677801997.jar /home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/surefire 2025-11-22T12-31-38_769-jvmRun1 surefire4376839889764026208tmp surefire_017428624638576940434tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/test-classes:/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/classes:/home/froggy/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar:/home/froggy/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/froggy/.m2/repository/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar:/home/froggy/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/froggy/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.1/junit-jupiter-engine-5.9.1.jar:/home/froggy/.m2/repository/org/junit/platform/junit-platform-engine/1.9.1/junit-platform-engine-1.9.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/surefire/surefirebooter11533455273757827560.jar"/>
+    <property name="surefire.real.class.path" value="/home/froggy/Documents/Utvecklingsverktyg/Nahid_Inlamning2/maven/Library/target/surefire/surefirebooter8287536189677801997.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.9+10"/>
     <property name="user.name" value="froggy"/>
@@ -58,5 +58,5 @@
     <property name="maven.repo.local" value="/home/froggy/.m2/repository"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testDueDate" classname="se.yrgo.LoanTest" time="0.018"/>
+  <testcase name="testDueDate" classname="se.yrgo.LoanTest" time="0.017"/>
 </testsuite>

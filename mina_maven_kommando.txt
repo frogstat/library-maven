@@ -1,0 +1,16 @@
+Alla maven goals som användes.
+
+mvn clean
+    för att ta bort target mappen
+
+mvn compile
+    Kompilerar mina java filer till class filer i target.
+
+mvn test
+    Kompilerar, sedan kör alla mina testklasser och ger fel om en test misslyckas.
+
+mvn javadoc:javadoc
+    Skapar en sida där jag kan se igenom alla mina klasser och deras noteringar
+
+mvn package
+    Kompilerar, kör tester, sedan packar ihop programmet i en .jar fil

@@ -5,54 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="594ef8ba-dd16-4a9c-8eec-4a73b450e399" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allpackages-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Book.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/BookCatalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/BookCatalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/BookNotFoundException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/BookNotFoundException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Customer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Loan.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Loan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/LoanAlreadyExistsException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/LoanAlreadyExistsException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/LoanNotFoundException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/LoanNotFoundException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Material.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/Material.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Book.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/BookCatalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/BookCatalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/BookNotFoundException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/BookNotFoundException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Customer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Loan.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Loan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/LoanAlreadyExistsException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/LoanAlreadyExistsException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/LoanNotFoundException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/LoanNotFoundException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Material.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/class-use/Material.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/models/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/class-use/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/class-use/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/ui/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/GenderType.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/GenderType.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/LoanStatus.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/LoanStatus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/class-use/GenderType.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/class-use/GenderType.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/class-use/LoanStatus.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/class-use/LoanStatus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/se/yrgo/utilities/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/apidocs/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/serialized-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.BookCatalogTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.BookCatalogTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.BookTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.BookTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.LoanTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-se.yrgo.LoanTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.BookCatalogTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/se.yrgo.BookCatalogTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/yrgo/BookCatalogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/yrgo/BookCatalogTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +27,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.BookCatalogTest.executor": "Run",
+    "JUnit.BookCatalogTest.testAddABook.executor": "Run",
     "JUnit.BookCatalogTest.testFindBookThatDoesntExist.executor": "Run",
     "JUnit.BookTest.executor": "Run",
     "JUnit.LoanTest.executor": "Run",
@@ -102,7 +57,23 @@
       <recent name="se.yrgo" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.BookCatalogTest.testAddABook">
+    <configuration name="BookCatalogTest.testAddABook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.yrgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.yrgo" />
+      <option name="MAIN_CLASS_NAME" value="se.yrgo.BookCatalogTest" />
+      <option name="METHOD_NAME" value="testAddABook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BookCatalogTest.testFindBookThatDoesntExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Library" />
       <extension name="coverage">
@@ -137,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BookCatalogTest.testAddABook" />
         <item itemvalue="JUnit.LoanTest.testDueDate" />
         <item itemvalue="JUnit.BookCatalogTest.testFindBookThatDoesntExist" />
       </list>
@@ -145,8 +117,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
       </set>
     </attachedChunks>
   </component>
@@ -160,6 +132,9 @@
       <workItem from="1763319659774" duration="1943000" />
       <workItem from="1763372624638" duration="13000" />
       <workItem from="1763807393170" duration="3298000" />
+      <workItem from="1763901994372" duration="23000" />
+      <workItem from="1763923526906" duration="11000" />
+      <workItem from="1763990535715" duration="1722000" />
     </task>
     <servers />
   </component>

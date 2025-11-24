@@ -9,46 +9,46 @@ import se.yrgo.models.BookNotFoundException;
 
 public class BookCatalogTest {
 
-	private BookCatalog bc;
-	private Book book1;
+    private BookCatalog bc;
+    private Book book1;
 
-	public BookCatalogTest() {
-		bc = new BookCatalog();
-		book1 = new Book(1,"Learning Java","","","",0);
-		bc.addBook(book1);
-	}
-
-	//G
-	@Test
-	public void testAddABook() {
-        int currentBookIndex = bc.getNumberOfBooks();
+    public BookCatalogTest() {
+        bc = new BookCatalog();
+        book1 = new Book(1, "Learning Java", "", "", "", 0);
         bc.addBook(book1);
-        assertSame(book1,bc.getBookArray()[currentBookIndex]);
-	}
+    }
 
-	//G
-	@Test
-	public void testFindBook() throws BookNotFoundException {
-        assertSame(book1,bc.findBook("Learning Java"));
-	}
+    //G
+    @Test
+    public void testAddABook() throws BookNotFoundException {
+        Book testBook = new Book(55, "Adding books to book catalog for dummies", "", "", "", 4);
+        bc.addBook(testBook);
+        assertSame(testBook, bc.findBook("Adding books to book catalog for dummies"));
+    }
 
-	//G
-	@Test
-	public void testFindBookIgnoringCase() throws BookNotFoundException {
-        assertSame(book1,bc.findBook("LEARninG jAvA"));
-	}
+    //G
+    @Test
+    public void testFindBook() throws BookNotFoundException {
+        assertSame(book1, bc.findBook("Learning Java"));
+    }
 
-	//G
-	@Test
-	public void testFindBookWithExtraSpaces() throws BookNotFoundException {
-        assertSame(book1,bc.findBook("      Learning Java    "));
-	}
+    //G
+    @Test
+    public void testFindBookIgnoringCase() throws BookNotFoundException {
+        assertSame(book1, bc.findBook("LEARninG jAvA"));
+    }
 
-	//VG
-	// This test should throw BookNotFoundException in order to pass.
-	@Test
-	public void testFindBookThatDoesntExist() throws BookNotFoundException {
+    //G
+    @Test
+    public void testFindBookWithExtraSpaces() throws BookNotFoundException {
+        assertSame(book1, bc.findBook("      Learning Java    "));
+    }
+
+    //VG
+    // This test should throw BookNotFoundException in order to pass.
+    @Test
+    public void testFindBookThatDoesntExist() throws BookNotFoundException {
         assertThrows(BookNotFoundException.class, () -> bc.findBook("thisB0okD0esNotExist!¡@£€€¥"));
-	}
+    }
 
 }
